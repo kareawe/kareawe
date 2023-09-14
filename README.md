@@ -1,4 +1,6 @@
 ### Hi there 👋
+my name is 김민재 age is 23.
+i want to be forent-end developer
 
 <!--
 **kareawe/kareawe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
