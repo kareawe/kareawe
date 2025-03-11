@@ -8,7 +8,7 @@
 ---
 
 ### 📈 My Technical Skills (Stock Chart Style)
-![Tech Skills Chart](https://raw.githubusercontent.com/your-github-username/your-repo/main/tech_skills_chart.png)
+![Tech Skills Chart](https://github.com/kareawe/kareawe/blob/536b79982f87344229a602d435428bc248b64b7e/tech_skills_chart.png)
 
 - 🔍 **Finance Data Analysis** using **Python, SQL, and visualization tools**
 - 💻 **Frontend Development** with **React, TypeScript, and Tailwind CSS**
