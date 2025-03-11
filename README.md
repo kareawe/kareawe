@@ -4,6 +4,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+---
+
+## 📈 최근 30일 환율 변화
+
+![Recent Exchange Rate](finance_graph.svg)
+
 
 ---
 
