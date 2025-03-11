@@ -42,10 +42,10 @@
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+  <a href="https://linkedin.com/in/민재-김-707232309/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kimminjae1573@naver.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
