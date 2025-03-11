@@ -38,11 +38,10 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 ---
-
 ## 🏅Certifications
-- **SQLD (SQL Developer)💻**
-- **ADsP (Advanced Data Science Professional)📊**
-- **OPIc** – IH (Intermediate High)🗣️
+- **SQLD (SQL Developer)💻** ✅
+- **ADsP (Advanced Data Science Professional)📊** ✅
+- **OPIc** – IH (Intermediate High)🗣️ ✅
 - **Information Processing Engineer (정보처리기사)** 🖥️ - (2024.02.01 ~ ing)
 ---
 
