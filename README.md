@@ -43,6 +43,7 @@
 - **SQLD (SQL Developer)💻**
 - **ADsP (Advanced Data Science Professional)📊**
 - **OPIc** – IH (Intermediate High)🗣️
+- **Information Processing Engineer (정보처리기사)** 🖥️ - (2024.02.01 ~ ing)
 ---
 
 ## 📚Currently Learning
