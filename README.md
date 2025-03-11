@@ -43,6 +43,11 @@
 - **SQLD (SQL Developer)**
 - **ADsP (Advanced Data Science Professional)**
 - **OPIc** – IH (Intermediate High)
+---
+
+## Currently Learning
+- **Large Language Models (LLM)**: Focusing on model architectures, fine-tuning, and applications in natural language processing.
+
 
 ---
 
