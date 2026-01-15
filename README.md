@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Hi, I'm 김민재 👋</h1>
-<h3 align="center">Finance Data Analyst | AI & Machine Learning | Frontend Developer</h3>
+<h1 align="center">Hi, I'm 김민재 </h1>
+<h3 align="left">Finance Data Analyst | AI & Machine Learning | Frontend Developer</h3>
 
 <!-- 🪪 GitHub 명함 카드 -->
 <p align="left">
