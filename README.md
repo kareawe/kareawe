@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Minjae%20Kim&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Finance%20Data%20Analyst%20%7C%20AI%20%26%20ML%20%7C%20Frontend&descAlignY=55" />
+</p>
+
 <h1 align="left">Hi, I'm 김민재 👋</h1>
 
 <p align="left">
