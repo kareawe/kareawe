@@ -2,13 +2,13 @@
 <h3 align="center">Finance Data Analyst | AI & Machine Learning | Frontend Developer</h3>
 
 <!-- 🪪 GitHub 명함 카드 -->
-<p align="center">
+<p align="left">
   <img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v2?name=Minjae%20Kim&job=Finance%20Data%20Analyst%20%7C%20AI%20%26%20ML%20%7C%20Frontend&company=Gachon%20University&address=Seoul%2C%20KR&about=Data-driven%20engineer%20who%20builds%20AI-powered%20services&github=https%3A%2F%2Fgithub.com%2Fkareawe&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2F%EB%AF%BC%EC%9E%AC-%EA%B9%80-707232309&linkedin_color=%230077B5" />
 </p>
 
 
 <!-- 🐾 Git Animals (동물농장) -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/git-goods/gitanimals">
     <img src="https://render.gitanimals.org/farms/kareawe" />
   </a>
