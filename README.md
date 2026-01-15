@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3c72,100:2a5298&amp;height=220&amp;section=header&amp;text=Minjae%20Kim&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Finance%20Data%20Analyst%20%7C%20AI%20%26%20ML%20%7C%20Frontend&amp;descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3c72,100:2a5298&amp;height=200&amp;section=header&amp;text=Minjae%20Kim&amp;fontSize=44&amp;fontColor=ffffff" />
 </p>
-
 <p align="center">
   <a href="mailto:kimminjae1573@naver.com">
     <img src="https://img.shields.io/badge/Email-0A66C2?style=flat-square&amp;logo=minutemailer&amp;logoColor=white" />
