@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3c72,100:2a5298&amp;height=200&amp;section=header&amp;text=Ability%20vs.%20Aspiration&amp;fontSize=42&amp;fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3c72,100:2a5298&amp;height=200&amp;section=header&amp;text=Ability%20vs%20Aspiration&amp;fontSize=42&amp;fontColor=ffffff" />
 </p>
 
 
