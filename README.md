@@ -5,12 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<!-- 🐾 Git Animals (동물농장) -->
 <p align="center">
-  <img 
-    src="https://github-profile-animals.vercel.app/api?username=kareawe&theme=dark&animation=true"
-    alt="GitHub Animal"
-  />
+  <a href="https://github.com/git-goods/gitanimals">
+    <img src="https://render.gitanimals.org/farms/kareawe" />
+  </a>
 </p>
+
 
 
 ---
