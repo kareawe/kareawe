@@ -1,11 +1,29 @@
-<h1 align="center">Hi, I'm 김민재 </h1>
-<h3 align="center">Finance Data Analyst | AI & Machine Learning | Frontend Developer</h3>
+<h1 align="left">Hi, I'm 김민재 👋</h1>
+
+<p align="left">
+  <b>Finance Data Analyst</b> · <b>AI & Machine Learning</b> · <b>Frontend Developer</b>
+</p>
+
+<p align="left">
+  <a href="mailto:kimminjae1573@naver.com">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=flat-square&logo=minutemailer&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EA%B9%80-707232309/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kareawe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-kareawe-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kareawe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <!-- 🪪 GitHub 명함 카드 -->
 <p align="left">
   <img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?name=Minjae%20Kim&job=Frontend%20%20%7C%20AI%20%26%20Machine%20Learning&company=Gachon.univ&address=Seoul%2C%20KR&about=AI%20%26%20Machine%20Learning%20%7C%20Frontend%20&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25EB%25AF%25BC%25EC%259E%25AC-%25EA%25B9%2580-707232309%2F&theme=cosmic&email=kimminjae1573%40naver.com&linkedin_color=%230077B5" />
 </p>
-
 
 <!-- 🐾 Git Animals (동물농장) -->
 <p align="left">
@@ -15,6 +33,7 @@
 </p>
 
 ---
+
 
 ## 🔍 About Me
 - 💰 **Finance Data Analysis:** Financial modeling, risk analysis, and stock market data processing using **Python & SQL**  
