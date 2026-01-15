@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kareawe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <!-- 🪪 GitHub 명함 카드 -->
 <p align="left">
   <img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?name=Minjae%20Kim&job=Frontend%20%20%7C%20AI%20%26%20Machine%20Learning&company=Gachon.univ&address=Seoul%2C%20KR&about=AI%20%26%20Machine%20Learning%20%7C%20Frontend%20&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25EB%25AF%25BC%25EC%259E%25AC-%25EA%25B9%2580-707232309%2F&theme=cosmic&email=kimminjae1573%40naver.com&linkedin_color=%230077B5" />
