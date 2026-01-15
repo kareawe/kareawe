@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3c72,100:2a5298&amp;height=200&amp;section=header&amp;text=Minjae%20Kim&amp;fontSize=44&amp;fontColor=ffffff" />
 </p>
+
+<hr/>
 <p align="left">
   <img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?name=Minjae%20Kim&amp;job=Frontend%20%20%7C%20AI%20%26%20Machine%20Learning&amp;company=Gachon.univ&amp;address=Seoul%2C%20KR&amp;about=AI%20%26%20Machine%20Learning%20%7C%20Frontend%20&amp;linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25EB%25AF%25BC%25EC%259E%25AC-%25EA%25B9%2580-707232309%2F&amp;theme=cosmic&amp;email=kimminjae1573%40naver.com&amp;linkedin_color=%230077B5" />
 </p>
