@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3c72,100:2a5298&amp;height=200&amp;section=header&amp;text=Minjae%20Kim&amp;fontSize=44&amp;fontColor=ffffff" />
 </p>
-<p align="center">
+<p align="left">
   <a href="mailto:kimminjae1573@naver.com">
     <img src="https://img.shields.io/badge/Email-0A66C2?style=flat-square&amp;logo=minutemailer&amp;logoColor=white" />
   </a>
