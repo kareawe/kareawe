@@ -1,14 +1,10 @@
+<!-- 🎨 Design Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Minjae%20Kim&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Finance%20Data%20Analyst%20%7C%20AI%20%26%20ML%20%7C%20Frontend&descAlignY=55" />
 </p>
 
-<h1 align="left">Hi, I'm 김민재 👋</h1>
-
-<p align="left">
-  <b>Finance Data Analyst</b> · <b>AI & Machine Learning</b> · <b>Frontend Developer</b>
-</p>
-
-<p align="left">
+<!-- 🔗 Quick Links -->
+<p align="center">
   <a href="mailto:kimminjae1573@naver.com">
     <img src="https://img.shields.io/badge/Email-0A66C2?style=flat-square&logo=minutemailer&logoColor=white" />
   </a>
@@ -19,6 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-kareawe-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 <!-- 🪪 GitHub 명함 카드 -->
 <p align="left">
