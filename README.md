@@ -10,9 +10,10 @@
 
 <p align="left">
   <a href="https://github.com/git-goods/gitanimals">
-    <img src="https://render.gitanimals.org/farms/kareawe" />
+    <img src="https://render.gitanimals.org/farms/kareawe?v=2" />
   </a>
 </p>
+
 
 
 <hr/>
