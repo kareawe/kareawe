@@ -9,13 +9,9 @@
 </p>
 
 <p align="left">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kareawe&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/kareawe"
-  width="600"
-  height="300"
-/>
-</a>
+  <a href="https://github.com/git-goods/gitanimals">
+    <img src="https://render.gitanimals.org/farms/kareawe?v=2" />
+  </a>
 </p>
 
 
