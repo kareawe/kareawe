@@ -19,21 +19,21 @@
 <hr/>
 
 
-## 🔍 About Me
-- 💰 **Finance Data Analysis:** Financial modeling, risk analysis, and stock market data processing using **Python & SQL**  
-- 🤖 **AI & Machine Learning:**  
+## About Me
+-  **Finance Data Analysis:** Financial modeling, risk analysis, and stock market data processing using **Python & SQL**  
+-  **AI & Machine Learning:**  
   - Supervised & Unsupervised Learning (Regression, Classification, Clustering)  
   - Deep Learning (TensorFlow, PyTorch) & Time-Series Forecasting  
   - Model Performance Optimization & Feature Engineering  
-- 💻 **Frontend Development:**  
+-  **Frontend Development:**  
   - **React, TypeScript, Tailwind CSS** for building dynamic & user-friendly interfaces  
   - **API integration** for interactive financial dashboards  
-- 🎯 Passionate about **data-driven decision making & intuitive user experience**
+-  Passionate about **data-driven decision making & intuitive user experience**
 
 ---
 
-## 💻 Tech Stack
-### 📊 Data & AI
+##  Tech Stack
+###  Data & AI
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -52,21 +52,20 @@
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 - **SQLD (SQL Developer)** ✅  
 - **ADsP (Advanced Data Science Professional)** ✅  
-- **OPIc** – IH *(2024.02.01 ~ ing)*  
-- **Information Processing Engineer (정보처리기사)** *(2024.02.01 ~ ing)*  
+- **Information Processing Engineer (정보처리기사)** ✅ 
 
 ---
 
-## 📚 Currently Learning
-- **Large Language Models (LLM)** 🤖  
+##  Currently Learning
+- **Large Language Models (LLM)** 
   - Architecture · Fine-tuning · Practical Applications
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 <p>
   <a href="https://linkedin.com/in/민재-김-707232309" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
