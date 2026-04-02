@@ -73,4 +73,7 @@
   <a href="mailto:kgm12024028@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://kareawe.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=flat-square&logo=google-chrome&logoColor=black" />
+</a>
 </p>
